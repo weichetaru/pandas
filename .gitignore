@@ -1,4 +1,1 @@
-
-.ipynb_checkpoints/pydataCh02-checkpoint.ipynb
-
-*.ipynb
+.ipynb_checkpoints/*
